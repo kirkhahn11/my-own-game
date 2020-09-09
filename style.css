@@ -1,0 +1,45 @@
+html {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-left: 55px;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 150px;
+  height: 150px;
+}
+
+input {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  text-align: center;
+  padding: 20px;
+    }
+
+.guessSubmit {
+  text-align: center;
+  margin-top: 25px;
+  margin-left: 50px;
+  border: none;
+}
+
+#inputSubmit {
+  padding: 14px 20px;
+  font-size: 25px;
+}
